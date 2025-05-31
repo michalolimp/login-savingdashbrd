@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/michalolimp/login-savingdashbrd/static/css/main.d42935a3.css",
-    "main.js": "/michalolimp/login-savingdashbrd/static/js/main.b5651447.js",
-    "static/js/453.7972407e.chunk.js": "/michalolimp/login-savingdashbrd/static/js/453.7972407e.chunk.js",
-    "index.html": "/michalolimp/login-savingdashbrd/index.html",
-    "main.d42935a3.css.map": "/michalolimp/login-savingdashbrd/static/css/main.d42935a3.css.map",
-    "main.b5651447.js.map": "/michalolimp/login-savingdashbrd/static/js/main.b5651447.js.map",
-    "453.7972407e.chunk.js.map": "/michalolimp/login-savingdashbrd/static/js/453.7972407e.chunk.js.map"
+    "main.css": "/login-savingdashbrd/static/css/main.d42935a3.css",
+    "main.js": "/login-savingdashbrd/static/js/main.be761c62.js",
+    "static/js/453.7972407e.chunk.js": "/login-savingdashbrd/static/js/453.7972407e.chunk.js",
+    "index.html": "/login-savingdashbrd/index.html",
+    "main.d42935a3.css.map": "/login-savingdashbrd/static/css/main.d42935a3.css.map",
+    "main.be761c62.js.map": "/login-savingdashbrd/static/js/main.be761c62.js.map",
+    "453.7972407e.chunk.js.map": "/login-savingdashbrd/static/js/453.7972407e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d42935a3.css",
-    "static/js/main.b5651447.js"
+    "static/js/main.be761c62.js"
   ]
 }
