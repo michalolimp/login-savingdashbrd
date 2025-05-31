@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/michalolimp/login-savingdashbrd.git/static/css/main.d42935a3.css",
-    "main.js": "/michalolimp/login-savingdashbrd.git/static/js/main.7f542790.js",
-    "static/js/453.7972407e.chunk.js": "/michalolimp/login-savingdashbrd.git/static/js/453.7972407e.chunk.js",
-    "index.html": "/michalolimp/login-savingdashbrd.git/index.html",
-    "main.d42935a3.css.map": "/michalolimp/login-savingdashbrd.git/static/css/main.d42935a3.css.map",
-    "main.7f542790.js.map": "/michalolimp/login-savingdashbrd.git/static/js/main.7f542790.js.map",
-    "453.7972407e.chunk.js.map": "/michalolimp/login-savingdashbrd.git/static/js/453.7972407e.chunk.js.map"
+    "main.css": "/michalolimp/login-savingdashbrd/static/css/main.d42935a3.css",
+    "main.js": "/michalolimp/login-savingdashbrd/static/js/main.b5651447.js",
+    "static/js/453.7972407e.chunk.js": "/michalolimp/login-savingdashbrd/static/js/453.7972407e.chunk.js",
+    "index.html": "/michalolimp/login-savingdashbrd/index.html",
+    "main.d42935a3.css.map": "/michalolimp/login-savingdashbrd/static/css/main.d42935a3.css.map",
+    "main.b5651447.js.map": "/michalolimp/login-savingdashbrd/static/js/main.b5651447.js.map",
+    "453.7972407e.chunk.js.map": "/michalolimp/login-savingdashbrd/static/js/453.7972407e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d42935a3.css",
-    "static/js/main.7f542790.js"
+    "static/js/main.b5651447.js"
   ]
 }
